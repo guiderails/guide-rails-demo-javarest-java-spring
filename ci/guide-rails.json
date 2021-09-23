@@ -217,7 +217,7 @@
 						"name": "((application.name))",
 						"number_of_instances": 1,
 						"cloud_provider_type": "aws",
-						"vm_type": "default",
+						"vm_type": "medium",
 						"os_type": "default",
 						"networks": [
 							"integration"
